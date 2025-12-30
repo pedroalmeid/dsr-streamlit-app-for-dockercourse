@@ -9,7 +9,7 @@ from models import get_life_prediction
 def main():
     st.set_page_config(layout="wide")
 
-    st.markdown("# 🌍 Global Life Quality and Economic Analysis 📊")
+    st.markdown("# 🌍 Global Life Quality and Economic Analysis 📊 - Edited by Pedro")
 
     st.markdown("""
     This app allows you to explore the relationships between poverty, 
